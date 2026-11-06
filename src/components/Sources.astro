@@ -1,0 +1,47 @@
+---
+import type { SourceEntry } from '../lib/sources';
+
+interface Props {
+  sources?: SourceEntry[];
+  furtherReading?: SourceEntry[];
+}
+
+const { sources = [], furtherReading = [] } = Astro.props;
+
+function label(entry: SourceEntry) {
+  const bits = [entry.author, entry.year].filter(Boolean);
+  return bits.length ? `${entry.title} — ${bits.join(', ')}` : entry.title;
+}
+---
+
+{
+  sources.length > 0 && (
+    <section class="cw-sources" aria-labelledby="sources-heading">
+      <h2 id="sources-heading">Sources</h2>
+      <ol>
+        {sources.map((entry) => (
+          <li>
+            <a href={entry.url} rel="noopener noreferrer">{label(entry)}</a>
+            {entry.note && <span class="cw-source-note"> {entry.note}</span>}
+          </li>
+        ))}
+      </ol>
+    </section>
+  )
+}
+
+{
+  furtherReading.length > 0 && (
+    <section class="cw-sources" aria-labelledby="further-reading-heading">
+      <h2 id="further-reading-heading">Further reading</h2>
+      <ul>
+        {furtherReading.map((entry) => (
+          <li>
+            <a href={entry.url} rel="noopener noreferrer">{label(entry)}</a>
+            {entry.note && <span class="cw-source-note"> {entry.note}</span>}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}

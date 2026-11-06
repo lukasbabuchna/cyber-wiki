@@ -1,0 +1,12 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+import Sources from './Sources.astro';
+import type { SourceEntry } from '../lib/sources';
+
+const data = Astro.locals.starlightRoute.entry.data;
+const sources = (data.sources ?? []) as SourceEntry[];
+const furtherReading = (data.furtherReading ?? []) as SourceEntry[];
+---
+
+<Sources sources={sources} furtherReading={furtherReading} />
+<Default><slot /></Default>
