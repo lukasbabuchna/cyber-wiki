@@ -1,6 +1,7 @@
 ---
 title: Common vulnerabilities
 description: The weakness classes that keep producing breaches, and why they survive every framework.
+difficulty: easy
 sources:
   - title: OWASP Top 10:2025
     url: https://owasp.org/Top10/
@@ -71,6 +72,7 @@ error paths — fail-open logic, unhandled exceptions, and stack traces that lea
 - [Memory safety](/vulnerabilities/memory-safety/) — overflow, use-after-free, and the languages that avoid them
 - [Supply chain](/vulnerabilities/supply-chain/) — dependencies, builds, and signing
 - [Cloud and API](/vulnerabilities/cloud-and-api/) — the API Top 10 and cloud identity
+- [Mobile](/vulnerabilities/mobile/) — insecure storage, permissions, and the app-store boundary
 - [CWE Top 25:2025](/vulnerabilities/cwe-top-25/) — the software-level ranking
 
 ## The uncomfortable common factor

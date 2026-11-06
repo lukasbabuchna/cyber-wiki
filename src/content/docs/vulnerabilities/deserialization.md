@@ -1,6 +1,7 @@
 ---
 title: Deserialisation and parsing
 description: When untrusted bytes become objects, and why the parser is often the vulnerability.
+difficulty: hard
 sources:
   - title: OWASP Deserialization Cheat Sheet
     url: https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html

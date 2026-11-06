@@ -1,6 +1,7 @@
 ---
 title: OWASP Top 10:2025
 description: The ten web categories, what each one actually means, and how to verify it is handled.
+difficulty: easy
 sources:
   - title: OWASP Top 10:2025
     url: https://owasp.org/Top10/

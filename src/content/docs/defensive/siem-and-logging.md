@@ -1,6 +1,7 @@
 ---
 title: SIEM and logging
 description: What to collect, how to keep it, and why most SIEM projects fail on data quality rather than queries.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-92 — Guide to Computer Security Log Management'
     url: https://csrc.nist.gov/pubs/sp/800/92/final

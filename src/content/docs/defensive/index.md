@@ -1,6 +1,7 @@
 ---
 title: Defensive security
 description: Detection, response, hardening and recovery — the work that happens whether or not the attack succeeds.
+difficulty: easy
 sources:
   - title: NIST Cybersecurity Framework 2.0
     url: https://www.nist.gov/cyberframework
@@ -61,6 +62,7 @@ Spend where the incidents are, then where the impact would be catastrophic.
 - [SOC and triage](/defensive/soc-and-triage/) — how alerts become decisions
 - [Detection engineering](/defensive/detection-engineering/) — writing rules that work
 - [SIEM and logging](/defensive/siem-and-logging/) — the data pipeline
+- [Logging pipeline](/defensive/logging-pipeline/) — collection, parsing and retention architecture
 - [ATT&CK and D3FEND](/defensive/mitre-attack-d3fend/) — behaviour vocabularies
 - [Hardening](/defensive/hardening/) — baselines that reduce surface
 - [Incident response](/defensive/incident-response/) — the first hour and the next month
@@ -68,6 +70,7 @@ Spend where the incidents are, then where the impact would be catastrophic.
 - [Threat intelligence](/defensive/threat-intelligence/) — making intelligence actionable
 - [Vulnerability management](/defensive/vulnerability-management/) — prioritising fixes
 - [Zero trust](/defensive/zero-trust/) — architecture that assumes a hostile network
+- [Cloud defence](/defensive/cloud-defence/) — guardrails, identity and detection across providers
 
 ## The uncomfortable truth
 

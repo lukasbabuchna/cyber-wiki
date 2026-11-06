@@ -1,6 +1,7 @@
 ---
 title: Triage, CVSS and duplicates
 description: How a report is scored, why duplicates happen, and how to write one that survives triage.
+difficulty: advanced
 sources:
   - title: 'FIRST — CVSS v4.0 specification'
     url: https://www.first.org/cvss/v4.0/

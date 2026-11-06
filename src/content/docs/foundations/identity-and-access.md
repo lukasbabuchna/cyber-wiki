@@ -1,6 +1,7 @@
 ---
 title: Identity and access
 description: Authentication, authorisation, sessions, and the identity bugs that dominate real breaches.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-63B — Digital Identity Guidelines: Authentication and Lifecycle Management'
     url: https://pages.nist.gov/800-63-4/sp800-63b.html

@@ -1,6 +1,7 @@
 ---
 title: Zero trust
 description: What zero trust actually means, what it does not, and how to move toward it without buying a rebrand.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-207 — Zero Trust Architecture'
     url: https://csrc.nist.gov/pubs/sp/800/207/final

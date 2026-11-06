@@ -1,6 +1,7 @@
 ---
 title: Checklists
 description: Short lists that prevent the same six mistakes under pressure.
+difficulty: easy
 sources:
   - title: 'NIST SP 800-115 — Technical Guide to Information Security Testing and Assessment'
     url: https://csrc.nist.gov/pubs/sp/800/115/final

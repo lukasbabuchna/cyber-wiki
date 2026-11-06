@@ -1,6 +1,7 @@
 ---
 title: EU AI Act
 description: Risk classes, obligations, and what a security team needs to know about the AI Act.
+difficulty: hard
 sources:
   - title: 'Regulation (EU) 2024/1689 — AI Act (full text)'
     url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng

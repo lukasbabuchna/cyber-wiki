@@ -1,6 +1,7 @@
 ---
 title: Foundations
 description: What security protects, the systems underneath, and the vocabulary the rest of the wiki uses.
+difficulty: easy
 sources:
   - title: NIST Cybersecurity Framework 2.0
     url: https://www.nist.gov/cyberframework

@@ -1,6 +1,7 @@
 ---
 title: Learning paths
 description: Week-by-week routes from beginner to employable, per role.
+difficulty: easy
 sources:
   - title: NIST NICE Framework
     url: https://www.nist.gov/itl/applied-cybersecurity/nice

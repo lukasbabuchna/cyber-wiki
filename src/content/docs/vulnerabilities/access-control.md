@@ -1,6 +1,7 @@
 ---
 title: Access control
 description: IDOR, missing function-level checks, and why authorisation must be server-side and object-specific.
+difficulty: advanced
 sources:
   - title: OWASP WSTG v4.2 — Testing for Authorization
     url: https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/05-Authorization_Testing/

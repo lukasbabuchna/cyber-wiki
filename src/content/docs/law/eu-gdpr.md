@@ -1,6 +1,7 @@
 ---
 title: GDPR
 description: Personal data, security duties, breach notification, and what it means for security testing.
+difficulty: advanced
 sources:
   - title: 'Regulation (EU) 2016/679 — GDPR (full text)'
     url: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng

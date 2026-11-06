@@ -1,6 +1,7 @@
 ---
 title: 'US: CFAA'
 description: The Computer Fraud and Abuse Act — what "exceeds authorized access" means after Van Buren.
+difficulty: advanced
 sources:
   - title: '18 U.S.C. § 1030 — Computer Fraud and Abuse Act'
     url: https://www.law.cornell.edu/uscode/text/18/1030

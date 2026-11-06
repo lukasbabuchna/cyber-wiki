@@ -1,6 +1,7 @@
 ---
 title: Ethics and authorisation
 description: The line between research and crime, and how to stay on the right side of it.
+difficulty: easy
 sources:
   - title: '18 U.S.C. § 1030 — Computer Fraud and Abuse Act'
     url: https://www.law.cornell.edu/uscode/text/18/1030

@@ -1,6 +1,7 @@
 ---
 title: Cloud and API
 description: The API Top 10, cloud identity mistakes, and why "the cloud" is mostly an authorisation problem.
+difficulty: advanced
 sources:
   - title: OWASP API Security Top 10 — 2023
     url: https://owasp.org/API-Security/editions/2023/en/0x11-t10/

@@ -1,6 +1,7 @@
 ---
 title: History
 description: Fifty years of attacks, defences, and the same mistakes returning under new names.
+difficulty: easy
 sources:
   - title: 'RFC 1135 — The Helminthiasis of the Internet'
     url: https://datatracker.ietf.org/doc/html/rfc1135

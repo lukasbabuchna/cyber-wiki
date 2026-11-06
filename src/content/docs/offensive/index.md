@@ -1,6 +1,7 @@
 ---
 title: Offensive security
 description: How attacks actually work — recon, exploitation, escalation, persistence — always inside authorisation.
+difficulty: easy
 sources:
   - title: 'NIST SP 800-115 — Technical Guide to Information Security Testing and Assessment'
     url: https://csrc.nist.gov/pubs/sp/800/115/final
@@ -63,6 +64,7 @@ the next cheapest step is.
 | [Active Directory](/offensive/active-directory/) | How do I move through a domain? |
 | [Password attacks](/offensive/password-attacks/) | What are the real limits of guessing? |
 | [Post-exploitation](/offensive/post-exploitation/) | What happens after the first shell? |
+| [Cloud attack paths](/offensive/cloud/) | How do I move from a credential to data? |
 | [Social engineering](/offensive/social-engineering/) | How do people get tricked, technically? |
 
 ## Mindset: least effort, highest evidence

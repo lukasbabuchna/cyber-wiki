@@ -1,6 +1,7 @@
 ---
 title: Cross-site scripting
 description: Why XSS is an output problem, not an input problem, and how context decides the encoding.
+difficulty: advanced
 sources:
   - title: OWASP Cross Site Scripting Prevention Cheat Sheet
     url: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html

@@ -1,6 +1,7 @@
 ---
 title: Tool index
 description: What each class of tool does, and the judgement each one cannot replace.
+difficulty: easy
 sources:
   - title: Nmap documentation
     url: https://nmap.org/book/

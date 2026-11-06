@@ -17,6 +17,7 @@ export const collections = {
       extend: z.object({
         sources: z.array(source).min(1),
         furtherReading: z.array(source).default([]),
+        difficulty: z.enum(['easy', 'advanced', 'hard']),
         reviewed: z.string().optional(),
         tags: z.array(z.string()).default([]),
       }),

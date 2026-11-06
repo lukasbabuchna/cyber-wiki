@@ -1,6 +1,7 @@
 ---
 title: Supply chain
 description: Dependencies, builds, registries and signing — attacking what you trust instead of what you wrote.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-161 Rev. 1 — Cybersecurity Supply Chain Risk Management Practices'
     url: https://csrc.nist.gov/pubs/sp/800/161/r1/final

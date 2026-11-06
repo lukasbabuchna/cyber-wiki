@@ -1,6 +1,7 @@
 ---
 title: SSRF
 description: Server-side request forgery — when your server is the attacker's proxy into your own network.
+difficulty: advanced
 sources:
   - title: OWASP Server-Side Request Forgery Prevention Cheat Sheet
     url: https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html

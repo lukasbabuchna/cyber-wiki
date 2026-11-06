@@ -1,6 +1,7 @@
 ---
 title: How to use this wiki
 description: Reading order, page anatomy, and what you are expected to already know.
+difficulty: easy
 sources:
   - title: OWASP Top 10
     url: https://owasp.org/Top10/
@@ -46,6 +47,20 @@ Every content page carries the same four things:
 
 A page with no sources fails the build. That is deliberate: an unsourced security claim is
 a rumour.
+
+## Difficulty ratings
+
+Every page carries one of three ratings at the top. They are **relative to this wiki**, not to
+the industry, so "hard" means "hard compared with the other pages here".
+
+| Rating | What it assumes | Typical pages |
+| --- | --- | --- |
+| **Easy** | No security background. You can read it with Linux and HTTP basics. | Start here, history, foundations overview, most reference pages |
+| **Advanced** | Foundations plus one earlier part. You have run commands, or read a standard before. | Vulnerability deep dives, recon, pentesting, bug bounty, most defensive pages |
+| **Hard** | Specialist depth, multiple prerequisites, or attacks that need prior hands-on practice. | Memory safety, Active Directory, pwn and reversing, agentic AI, forensics, standards mapping |
+
+A part's index page is rated at the level you need to start it, not the level of its hardest
+page. If you are choosing what to read next, sort by rating first and topic second.
 
 ## Suggested reading orders
 

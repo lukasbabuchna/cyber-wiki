@@ -1,6 +1,7 @@
 ---
 title: Bug bounty
 description: The disclosure economy — how programmes work, what researchers are paid for, and how to start without wasting a year.
+difficulty: easy
 sources:
   - title: HackerOne — bug bounty programmes
     url: https://www.hackerone.com/bug-bounty-programs

@@ -1,6 +1,7 @@
 ---
 title: Social engineering
 description: The technical mechanics behind pretexting, phishing, and why awareness training alone does not work.
+difficulty: easy
 sources:
   - title: 'MITRE ATT&CK — Phishing (T1566)'
     url: https://attack.mitre.org/techniques/T1566/

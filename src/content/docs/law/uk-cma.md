@@ -1,6 +1,7 @@
 ---
 title: 'UK: Computer Misuse Act'
 description: The 1990 Act, its three core offences, and the long-running debate about security research.
+difficulty: advanced
 sources:
   - title: 'Computer Misuse Act 1990 (full text, current)'
     url: https://www.legislation.gov.uk/ukpga/1990/18/contents

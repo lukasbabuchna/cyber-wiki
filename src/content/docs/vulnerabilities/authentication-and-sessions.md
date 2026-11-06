@@ -1,6 +1,7 @@
 ---
 title: Authentication and sessions
 description: Credential handling, MFA, reset flows, and the session bugs that turn a login into an account takeover.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-63B-4 — Digital Identity Guidelines'
     url: https://pages.nist.gov/800-63-4/sp800-63b.html

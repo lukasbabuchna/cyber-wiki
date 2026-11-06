@@ -1,6 +1,7 @@
 ---
 title: CWE Top 25:2025
 description: The most dangerous software weaknesses, ranked, and how they map to the web list.
+difficulty: advanced
 sources:
   - title: 'CWE Top 25 — 2025'
     url: https://cwe.mitre.org/top25/

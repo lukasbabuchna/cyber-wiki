@@ -1,6 +1,7 @@
 ---
 title: Threat modelling
 description: A repeatable way to find the weaknesses that matter in a specific system, before code exists.
+difficulty: advanced
 sources:
   - title: 'Threat Modeling — A Practical Guide'
     url: https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling

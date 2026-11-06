@@ -1,6 +1,7 @@
 ---
 title: Choosing a program
 description: How to pick a target where your work has a chance of being paid, and what signals predict a good programme.
+difficulty: easy
 sources:
   - title: HackerOne — programme directory
     url: https://www.hackerone.com/bug-bounty-programs

@@ -1,6 +1,7 @@
 ---
 title: Scanning and enumeration
 description: Turning a list of hosts into a map of services, versions and reachable paths.
+difficulty: easy
 sources:
   - title: 'NIST SP 800-115 — Technical Guide to Information Security Testing and Assessment'
     url: https://csrc.nist.gov/pubs/sp/800/115/final

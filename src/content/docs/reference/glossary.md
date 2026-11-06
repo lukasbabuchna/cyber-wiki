@@ -1,6 +1,7 @@
 ---
 title: Glossary
 description: Definitions for the terms used across this wiki.
+difficulty: easy
 sources:
   - title: 'NIST CSRC — Glossary of terms'
     url: https://csrc.nist.gov/glossary

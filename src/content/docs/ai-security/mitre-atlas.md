@@ -1,6 +1,7 @@
 ---
 title: MITRE ATLAS
 description: The adversarial ML knowledge base — what it covers, how to use it, and how it relates to ATT&CK.
+difficulty: hard
 sources:
   - title: MITRE ATLAS
     url: https://atlas.mitre.org/

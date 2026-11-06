@@ -1,6 +1,7 @@
 ---
 title: Windows privilege escalation
 description: Tokens, services, ACLs and the misconfigurations that turn a user shell into SYSTEM.
+difficulty: advanced
 sources:
   - title: MITRE ATT&CK — Privilege Escalation (TA0004)
     url: https://attack.mitre.org/tactics/TA0004/

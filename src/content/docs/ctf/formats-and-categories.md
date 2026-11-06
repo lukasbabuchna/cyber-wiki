@@ -1,6 +1,7 @@
 ---
 title: Formats and categories
 description: How a CTF actually runs, how scoring works, and how to pick your first challenge.
+difficulty: easy
 sources:
   - title: CTFtime — rules and event archive
     url: https://ctftime.org/

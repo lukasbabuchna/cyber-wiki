@@ -1,6 +1,7 @@
 ---
 title: Detection engineering
 description: Turning telemetry into rules that fire on behaviour, survive tuning, and map to real techniques.
+difficulty: hard
 sources:
   - title: MITRE ATT&CK
     url: https://attack.mitre.org/

@@ -1,6 +1,7 @@
 ---
 title: Responsible disclosure
 description: How to report a vulnerability without becoming the defendant, and how organisations should receive one.
+difficulty: easy
 sources:
   - title: 'ISO/IEC 29147 — Vulnerability disclosure'
     url: https://www.iso.org/standard/72311.html

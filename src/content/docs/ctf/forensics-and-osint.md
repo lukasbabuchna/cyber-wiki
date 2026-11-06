@@ -1,6 +1,7 @@
 ---
 title: Forensics and OSINT
 description: Recovering what was hidden in files, memory and networks, and finding what is already public.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-86 — Guide to Integrating Forensic Techniques into Incident Response'
     url: https://csrc.nist.gov/pubs/sp/800/86/final

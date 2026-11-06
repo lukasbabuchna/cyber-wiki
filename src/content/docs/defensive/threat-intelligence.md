@@ -1,6 +1,7 @@
 ---
 title: Threat intelligence
 description: Turning feeds into decisions, and the difference between an indicator and intelligence.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-150 — Guide to Cyber Threat Information Sharing'
     url: https://csrc.nist.gov/pubs/sp/800/150/final

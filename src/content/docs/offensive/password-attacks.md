@@ -1,6 +1,7 @@
 ---
 title: Password attacks
 description: Online guessing, offline cracking, spraying, and why length beats complexity.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-63B-4 — Digital Identity Guidelines'
     url: https://pages.nist.gov/800-63-4/sp800-63b.html

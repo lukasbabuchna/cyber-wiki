@@ -1,0 +1,30 @@
+---
+interface Props {
+  level: 'easy' | 'advanced' | 'hard';
+}
+
+const { level } = Astro.props;
+
+const meta = {
+  easy: {
+    label: 'Easy',
+    hint: 'No security background needed. Start here.',
+  },
+  advanced: {
+    label: 'Advanced',
+    hint: 'Assumes foundations plus one prior part. Commands and concepts build on the basics.',
+  },
+  hard: {
+    label: 'Hard',
+    hint: 'Specialist depth. Multiple prerequisites, or attacks that need prior hands-on practice.',
+  },
+} as const;
+
+const { label, hint } = meta[level];
+---
+
+<p class={`cw-difficulty cw-difficulty-${level}`} title={hint}>
+  <span class="cw-difficulty-key">Difficulty</span>
+  <span class="cw-difficulty-value">{label}</span>
+  <span class="cw-difficulty-hint">{hint}</span>
+</p>

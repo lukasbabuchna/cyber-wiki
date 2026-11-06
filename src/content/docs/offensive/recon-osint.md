@@ -1,6 +1,7 @@
 ---
 title: Recon and OSINT
 description: Learning everything about a target without sending a packet it can attribute to you.
+difficulty: easy
 sources:
   - title: 'NIST SP 800-115 — Technical Guide to Information Security Testing and Assessment'
     url: https://csrc.nist.gov/pubs/sp/800/115/final

@@ -1,6 +1,7 @@
 ---
 title: Cyber Resilience Act
 description: The EU's product security regulation — scope, essential requirements, and the 2026–2027 timeline.
+difficulty: advanced
 sources:
   - title: 'Regulation (EU) 2024/2847 — Cyber Resilience Act (full text)'
     url: https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng

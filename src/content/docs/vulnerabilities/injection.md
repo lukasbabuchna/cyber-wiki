@@ -1,6 +1,7 @@
 ---
 title: Injection
 description: When data becomes code — SQL, commands, templates — and why parameterisation is the only reliable fix.
+difficulty: advanced
 sources:
   - title: OWASP SQL Injection Prevention Cheat Sheet
     url: https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html

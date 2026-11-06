@@ -1,6 +1,7 @@
 ---
 title: NIS2
 description: The EU's second network and information security directive — scope, duties, and reporting deadlines.
+difficulty: advanced
 sources:
   - title: 'Directive (EU) 2022/2555 — NIS2 (full text)'
     url: https://eur-lex.europa.eu/eli/dir/2022/2555/oj/eng

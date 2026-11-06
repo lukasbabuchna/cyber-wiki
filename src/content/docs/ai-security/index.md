@@ -1,6 +1,7 @@
 ---
 title: AI & security
 description: Two directions — AI as an attack surface, and AI as a tool for attackers and defenders.
+difficulty: advanced
 sources:
   - title: 'OWASP Top 10 for LLM Applications 2026'
     url: https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/
@@ -70,6 +71,7 @@ without a deterministic check.
 - [LLM Top 10:2026](/ai-security/llm-top-10-2026/) — the application risks, category by category
 - [Agentic Top 10:2026](/ai-security/agentic-top-10-2026/) — what changes when the model acts
 - [Prompt injection](/ai-security/prompt-injection/) — direct, indirect, and why it is unsolved
+- [RAG security](/ai-security/rag-security/) — retrieval, access control, and corpus poisoning
 - [Model supply chain](/ai-security/model-supply-chain/) — weights, datasets, and packages
 - [AI in offence](/ai-security/ai-in-offence/) — automation of recon, phishing and code review
 - [AI in defence](/ai-security/ai-in-defence/) — triage, detection, and the limits

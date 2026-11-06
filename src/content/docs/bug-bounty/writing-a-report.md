@@ -1,6 +1,7 @@
 ---
 title: Writing a report
 description: The format that gets triaged fast, paid fairly, and remembered by the programme.
+difficulty: advanced
 sources:
   - title: 'HackerOne — report writing guidance'
     url: https://docs.hackerone.com/

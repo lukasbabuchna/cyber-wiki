@@ -1,6 +1,7 @@
 ---
 title: Prompt injection
 description: Direct and indirect injection, why filtering fails, and how to design so injection cannot cause harm.
+difficulty: advanced
 sources:
   - title: 'OWASP Top 10 for LLM Applications 2026 — LLM01 Prompt Injection'
     url: https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/

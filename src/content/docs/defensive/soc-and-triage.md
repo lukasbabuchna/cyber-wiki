@@ -1,6 +1,7 @@
 ---
 title: SOC and triage
 description: How alerts become decisions, and why most SOC pain is process rather than tooling.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-61 Rev. 3 — Incident Response Recommendations'
     url: https://csrc.nist.gov/pubs/sp/800/61/r3/final

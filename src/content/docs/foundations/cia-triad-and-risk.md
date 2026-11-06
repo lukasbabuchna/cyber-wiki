@@ -1,6 +1,7 @@
 ---
 title: CIA triad and risk
 description: The properties security preserves, and how to turn them into a decision about what to fix first.
+difficulty: easy
 sources:
   - title: 'NIST SP 800-12 Rev. 1 — An Introduction to Information Security'
     url: https://csrc.nist.gov/pubs/sp/800/12/r1/final

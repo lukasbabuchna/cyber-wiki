@@ -1,6 +1,7 @@
 ---
 title: Web and crypto
 description: The two categories where a beginner can win points fastest, and the concepts behind them.
+difficulty: advanced
 sources:
   - title: PortSwigger Web Security Academy
     url: https://portswigger.net/web-security

@@ -1,6 +1,7 @@
 ---
 title: Getting good
 description: A practice loop that compounds, and the habits that separate people who improve from people who collect tools.
+difficulty: easy
 sources:
   - title: picoCTF
     url: https://picoctf.org/

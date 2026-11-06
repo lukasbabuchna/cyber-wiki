@@ -1,6 +1,7 @@
 ---
 title: Incident response
 description: The first hour, the first week, and the decisions that determine whether an incident becomes a crisis.
+difficulty: advanced
 sources:
   - title: 'NIST SP 800-61 Rev. 3 — Incident Response Recommendations'
     url: https://csrc.nist.gov/pubs/sp/800/61/r3/final

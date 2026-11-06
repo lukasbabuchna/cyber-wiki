@@ -1,6 +1,7 @@
 ---
 title: Cryptography basics
 description: What cryptographic primitives guarantee, how they fail, and which ones you should actually use.
+difficulty: advanced
 sources:
   - title: FIPS 197 — Advanced Encryption Standard
     url: https://csrc.nist.gov/pubs/fips/197/final

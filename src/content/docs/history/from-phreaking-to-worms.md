@@ -1,6 +1,7 @@
 ---
 title: From phreaking to worms
 description: The pre-web era — phone networks, the Morris worm, and the birth of incident response.
+difficulty: easy
 sources:
   - title: 'RFC 1135 — The Helminthiasis of the Internet'
     url: https://datatracker.ietf.org/doc/html/rfc1135

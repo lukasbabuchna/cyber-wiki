@@ -1,6 +1,7 @@
 ---
 title: Ransomware and supply chain
 description: The current threat shape — extortion, third-party compromise, and state-linked operations.
+difficulty: easy
 sources:
   - title: CISA Known Exploited Vulnerabilities Catalog
     url: https://www.cisa.gov/known-exploited-vulnerabilities-catalog

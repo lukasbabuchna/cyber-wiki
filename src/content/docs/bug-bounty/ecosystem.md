@@ -1,6 +1,7 @@
 ---
 title: The bounty ecosystem
 description: Platforms, vulnerability disclosure programmes, brokers and the flow of money and reports.
+difficulty: easy
 sources:
   - title: HackerOne — how it works
     url: https://www.hackerone.com/

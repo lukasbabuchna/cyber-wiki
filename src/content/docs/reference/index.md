@@ -1,6 +1,7 @@
 ---
 title: Reference
 description: Glossary, sources, tools, checklists and career paths — the parts you come back to.
+difficulty: easy
 sources:
   - title: 'NIST NICE Framework'
     url: https://www.nist.gov/itl/applied-cybersecurity/nice

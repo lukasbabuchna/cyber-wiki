@@ -1,6 +1,7 @@
 ---
 title: Networking and protocols
 description: Where packets go, what a request actually contains, and which layers attackers use.
+difficulty: easy
 sources:
   - title: 'RFC 9293 — Transmission Control Protocol (TCP)'
     url: https://datatracker.ietf.org/doc/html/rfc9293

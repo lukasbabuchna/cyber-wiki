@@ -38,6 +38,9 @@ async function check(path) {
     return;
   }
   if (!/^title:\s*\S/m.test(fm)) errors.push(`${rel}: missing title`);
+  if (!/^difficulty:\s*(easy|advanced|hard)$/m.test(fm)) {
+    errors.push(`${rel}: missing or invalid difficulty (easy|advanced|hard)`);
+  }
   const count = sourceCount(fm);
   if (count === 0) errors.push(`${rel}: no sources`);
   if (/TODO|FIXME|PLACEHOLDER/.test(text)) errors.push(`${rel}: contains TODO/FIXME/PLACEHOLDER`);

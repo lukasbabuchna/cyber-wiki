@@ -1,6 +1,7 @@
 ---
 title: AI in offence
 description: What models genuinely accelerate for attackers, and what remains hype.
+difficulty: advanced
 sources:
   - title: Google Project Zero — From Naptime to Big Sleep
     url: https://projectzero.google/2024/10/from-naptime-to-big-sleep.html

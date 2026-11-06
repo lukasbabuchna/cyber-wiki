@@ -1,6 +1,7 @@
 ---
 title: Career paths
 description: Roles, what they actually do, and the evidence that gets you hired.
+difficulty: easy
 sources:
   - title: 'NIST NICE Framework'
     url: https://www.nist.gov/itl/applied-cybersecurity/nice

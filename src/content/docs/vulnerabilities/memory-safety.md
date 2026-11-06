@@ -1,6 +1,7 @@
 ---
 title: Memory safety
 description: Buffer overflows, use-after-free, and the languages and mitigations that stop them.
+difficulty: hard
 sources:
   - title: 'CWE-787 — Out-of-bounds Write'
     url: https://cwe.mitre.org/data/definitions/787.html

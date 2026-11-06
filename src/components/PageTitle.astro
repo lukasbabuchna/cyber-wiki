@@ -1,0 +1,15 @@
+---
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+import Difficulty from './Difficulty.astro';
+
+const level = Astro.locals.starlightRoute.entry.data.difficulty;
+---
+
+{
+  level && (
+    <div class="cw-difficulty-wrap">
+      <Difficulty level={level} />
+    </div>
+  )
+}
+<Default><slot /></Default>

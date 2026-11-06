@@ -1,6 +1,7 @@
 ---
 title: Recon for bounty
 description: Finding assets that the programme forgot to list, and the discipline of not touching what is out of scope.
+difficulty: advanced
 sources:
   - title: CTFtime — community recon write-ups
     url: https://ctftime.org/

@@ -1,6 +1,7 @@
 ---
 title: Pwn and reversing
 description: From a crashing input to control flow — the binary exploitation path, explained without magic.
+difficulty: hard
 sources:
   - title: 'CWE-787 — Out-of-bounds Write'
     url: https://cwe.mitre.org/data/definitions/787.html

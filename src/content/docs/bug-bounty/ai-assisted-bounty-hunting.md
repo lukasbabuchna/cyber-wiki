@@ -1,6 +1,7 @@
 ---
 title: AI-assisted bounty hunting
 description: Where LLMs genuinely help a researcher, where they waste time, and the new failure mode of AI-generated reports.
+difficulty: advanced
 sources:
   - title: Google AI Vulnerability Reward Program — rules
     url: https://bughunters.google.com/about/rules/google-friends/5222232590712832/ai-vulnerability-reward-program-rules

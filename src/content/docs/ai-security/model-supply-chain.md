@@ -1,6 +1,7 @@
 ---
 title: Model supply chain
 description: Weights, datasets, tokenisers, packages and inference servers — the components you did not write.
+difficulty: advanced
 sources:
   - title: 'OWASP Top 10 for LLM Applications 2026 — LLM03 Supply Chain'
     url: https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/

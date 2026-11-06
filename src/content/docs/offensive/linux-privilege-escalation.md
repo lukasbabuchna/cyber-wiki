@@ -1,6 +1,7 @@
 ---
 title: Linux privilege escalation
 description: From a user shell to root, by finding what the system already trusts too much.
+difficulty: advanced
 sources:
   - title: MITRE ATT&CK — Privilege Escalation (TA0004)
     url: https://attack.mitre.org/tactics/TA0004/

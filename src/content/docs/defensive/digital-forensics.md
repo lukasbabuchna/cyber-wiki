@@ -1,6 +1,7 @@
 ---
 title: Digital forensics
 description: Reconstructing what happened from disks, memory and network traffic — without destroying the evidence.
+difficulty: hard
 sources:
   - title: 'NIST SP 800-86 — Guide to Integrating Forensic Techniques into Incident Response'
     url: https://csrc.nist.gov/pubs/sp/800/86/final

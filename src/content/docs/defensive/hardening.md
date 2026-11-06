@@ -1,6 +1,7 @@
 ---
 title: Hardening
 description: Baselines that reduce attack surface, and how to keep them enforced after the first week.
+difficulty: easy
 sources:
   - title: 'CIS Benchmarks'
     url: https://www.cisecurity.org/cis-benchmarks

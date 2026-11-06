@@ -1,6 +1,7 @@
 ---
 title: ATT&CK and D3FEND
 description: Two MITRE vocabularies — what attackers do, and what defenders can do about it.
+difficulty: advanced
 sources:
   - title: MITRE ATT&CK
     url: https://attack.mitre.org/

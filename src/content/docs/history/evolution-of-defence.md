@@ -1,6 +1,7 @@
 ---
 title: Evolution of defence
 description: Why controls look the way they do, and which older ideas are still load-bearing.
+difficulty: easy
 sources:
   - title: NIST Cybersecurity Framework 2.0
     url: https://www.nist.gov/cyberframework

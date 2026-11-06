@@ -1,6 +1,7 @@
 ---
 title: 'Germany: StGB §§202a–202c'
 description: The core German computer-crime offences, including the controversial preparation offence.
+difficulty: advanced
 sources:
   - title: 'StGB § 202a — Ausspähen von Daten'
     url: https://www.gesetze-im-internet.de/stgb/__202a.html

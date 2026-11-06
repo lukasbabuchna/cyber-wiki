@@ -1,6 +1,7 @@
 ---
 title: Operating system internals
 description: Processes, memory, permissions and the boundary that every local exploit crosses.
+difficulty: advanced
 sources:
   - title: Linux man-pages — capabilities(7)
     url: https://man7.org/linux/man-pages/man7/capabilities.7.html

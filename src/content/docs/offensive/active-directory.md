@@ -1,6 +1,7 @@
 ---
 title: Active Directory
 description: Kerberos, delegation, ACLs, and why the domain is the real target in most enterprises.
+difficulty: hard
 sources:
   - title: MITRE ATT&CK — Lateral Movement (TA0008)
     url: https://attack.mitre.org/tactics/TA0008/

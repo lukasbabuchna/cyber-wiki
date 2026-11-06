@@ -1,6 +1,7 @@
 ---
 title: CTF
 description: Capture The Flag — the safest way to practise offensive skills, and how to get good at it.
+difficulty: easy
 sources:
   - title: CTFtime — global CTF calendar and archive
     url: https://ctftime.org/
@@ -72,6 +73,7 @@ boundaries of a real engagement. Those come from the [pentesting part](/pentesti
 - [Web and crypto](/ctf/web-and-crypto/) — the two most beginner-friendly categories
 - [Pwn and reversing](/ctf/pwn-and-reversing/) — from crash to shell
 - [Forensics and OSINT](/ctf/forensics-and-osint/) — finding what was hidden
+- [Hardware and embedded](/ctf/hardware/) — firmware, debug ports, and physical access
 - [Getting good](/ctf/getting-good/) — a practice plan that works
 
 ## The ethics line

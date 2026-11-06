@@ -1,6 +1,7 @@
 ---
 title: Source index
 description: Every standard, framework and reference cited in this wiki, with the version used.
+difficulty: easy
 sources:
   - title: OWASP Top 10:2025
     url: https://owasp.org/Top10/

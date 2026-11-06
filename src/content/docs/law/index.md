@@ -1,6 +1,7 @@
 ---
 title: Law & ethics
 description: The statutes that decide whether security work is research or crime, in the EU and beyond.
+difficulty: easy
 sources:
   - title: 'Regulation (EU) 2016/679 — GDPR'
     url: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng

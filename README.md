@@ -32,12 +32,13 @@ npm run build      # static output in dist/
 npm run preview    # serve the built site
 ```
 
-The build fails if a content page has no `sources` entry in its frontmatter. That is deliberate.
+The build fails if a content page has no `sources` entry in its frontmatter, or no `difficulty`
+of `easy`, `advanced` or `hard`. That is deliberate.
 
 ## Checks
 
 ```bash
-npm run check:sources   # every page has a title and at least one absolute source URL
+npm run check:sources   # every page has a title, a difficulty, and at least one source URL
 npm run check           # source check plus astro check
 ```
 
@@ -49,6 +50,7 @@ Each page lives under `src/content/docs/<part>/<page>.md` and carries mandatory 
 ---
 title: Page title
 description: One sentence for search results and previews.
+difficulty: advanced   # easy | advanced | hard, relative to this wiki
 sources:
   - title: 'NIST SP 800-115'
     url: https://csrc.nist.gov/pubs/sp/800/115/final
@@ -70,6 +72,8 @@ furtherReading:
 - Vulnerable snippets are shown in full; exploit commands are **commented out** with the expected
   effect beside them.
 - Every offensive page repeats the authorisation requirement.
+- Every page declares a **difficulty** of `easy`, `advanced` or `hard`, relative to the rest of
+  the wiki. It renders as a badge above the title.
 
 The rationale is in [ADR-0001](docs/adr/0001-lab-graded-offensive-content.md).
 

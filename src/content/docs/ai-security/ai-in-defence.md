@@ -1,6 +1,7 @@
 ---
 title: AI in defence
 description: Where models help a SOC, where they add risk, and how to measure whether they work.
+difficulty: advanced
 sources:
   - title: 'NIST AI Risk Management Framework'
     url: https://www.nist.gov/itl/ai-risk-management-framework

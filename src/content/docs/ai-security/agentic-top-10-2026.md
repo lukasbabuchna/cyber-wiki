@@ -1,6 +1,7 @@
 ---
 title: Agentic Top 10:2026
 description: What changes when a model can plan, call tools, and act — and why least privilege becomes the main control.
+difficulty: hard
 sources:
   - title: 'OWASP Top 10 for Agentic Applications 2026'
     url: https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/
